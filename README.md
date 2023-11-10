@@ -1,0 +1,1 @@
+This is a quiz that give 100 points for each correct answer, every correct answer also adds 5 seconds to the timer but every incorrect answer deduce 2 seconds of the timer.
